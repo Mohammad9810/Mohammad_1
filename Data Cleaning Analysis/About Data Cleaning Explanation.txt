@@ -1,1 +1,1 @@
-I have taken a data set from online and I did clean it by using Python(Panda).
+I have taken a data set from online and did clean it by using Python(Panda).
