@@ -1,0 +1,4 @@
+I have taken a survey dataset from "stack overflow annual developer survey" where various kinds of questions has been asked by the surveyers
+such as country, age ,undergraduate degree, programming languages ,working hours, Language Worked With,Language Desire Next Year etc.
+
+I did analyse it and showed various kninds of result by using Python(Pandas) and also showed charts through matplotlib and seaborn.
