@@ -1,2 +1,2 @@
-I have taken a covid report from online and I did analyse it and at the end of the analyse I did 
-present report for Italy.In that report I did show postive rate,death rate,case per million etc.
+I have taken a covid data set report from online and analysed it and did present a report for Italy.
+In that report I showed postive rate,death rate,case per million etc.
